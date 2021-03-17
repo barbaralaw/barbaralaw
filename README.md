@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/barbaralaw" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="barbaralaw" height="30" width="40" /></a>
-<a href="https://twitter.com/blawblawlaw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="blawblawlaw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lawbarbara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lawbarbara" height="30" width="40" /></a>
+<a href="https://twitter.com/blawblawlaw" target="blank"><img align="center" src="<img src="https://img.icons8.com/dusk/64/000000/twitter.png"/>" alt="blawblawlaw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lawbarbara" target="blank"><img align="center" src="<img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>" alt="lawbarbara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barbaralaw&show_icons=true&theme=vue-dark&locale=en" alt="barbaralaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barbaralaw&theme=vue-dark" alt="barbaralaw" /></p>
+
+<p><a href="https://icons8.com/icon/42859/twitter">Twitter & <a href="https://icons8.com/icon/42823/linkedin">LinkedIn & icons by Icons8</a>
