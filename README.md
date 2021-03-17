@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **Learn or Pay**
+- :construction: I’m currently working on **Learn or Pay**
 
-- 🌱 I’m currently focusing on **React**
+- :dart: I’m currently focusing on **React**
 
-- 👨‍💻 View my live projects at [https://www.barbaralaw.me](https://www.barbaralaw.me)
+- :woman_technologist: View my live projects at [https://www.barbaralaw.me](https://www.barbaralaw.me)
 
 - 📝 I regularly write articles on [https://dev.to/barbaralaw](https://dev.to/barbaralaw)
 
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **barbara.rm.law@gmail.com**
 
-- ⚡ Fun fact **I make a mean sugar cookie**
+- :woman_cook: Fun fact **I make a mean sugar cookie**
 
-### Blogs posts
+### :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Navigate Arrays like you're Talking to a 4-year-old](https://dev.to/barbaralaw/navigate-arrays-like-you-re-talking-to-a-4-year-old-1did)
 - [I want to do Codewars... uh, how do I do that?](https://dev.to/barbaralaw/i-want-to-do-codewars-uh-how-do-i-do-that-1pf0)
