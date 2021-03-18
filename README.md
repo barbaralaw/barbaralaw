@@ -3,7 +3,7 @@
 
 
 
-- :construction: I’m currently working on **Learn or Pay** ([live site])(https://learnorpay.carrd.co/) || [Github repo](https://github.com/barbaralaw/learnOrPay))
+- :construction: I’m currently working on **Learn or Pay** ([live site](https://learnorpay.carrd.co/) || [Github repo](https://github.com/barbaralaw/learnOrPay))
 
 - :dart: I’m currently focusing on **React**
 
