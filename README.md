@@ -1,4 +1,4 @@
-<div text-align="center"><img src="https://i.ibb.co/JvMNfPk/gnome-gif.gif" alt="Welcome to my Github!" align="center"></div>
+<div align="center"><img src="https://i.ibb.co/JvMNfPk/gnome-gif.gif" alt="Welcome to my Github!" align="center"></div>
 
 <h1 align="center">:wave:  Hi! I'm Barbara, welcome to my GitHub.  :open_file_folder:</h1>
 <h2 align="center">I'm a :palm_tree: Los Angeles based software engineer coding full-stack Javascript applications.</h3>
