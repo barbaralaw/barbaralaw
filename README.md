@@ -7,9 +7,9 @@
 
 - :construction: I’m currently working on **Learn or Pay** ([live site](https://learnorpay.carrd.co/) || [Github repo](https://github.com/barbaralaw/learnOrPay))
 
-- :alembic: I'm currently experimenting with CSS Drawing ([gnome header](https://github.com/barbaralaw/playground))
+- :alembic: I'm currently experimenting with **CSS Drawing** ([gnome header](https://github.com/barbaralaw/playground))
 
-- :dart: I’m currently focusing on **React**
+- :dart: I’m currently focusing on **Express**
 
 - :woman_technologist: View my live projects at [https://www.barbaralaw.me](https://www.barbaralaw.me)
 
