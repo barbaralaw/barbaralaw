@@ -9,7 +9,7 @@
 
 - :alembic: I'm currently experimenting with **CSS Drawing** ([gnome header](https://github.com/barbaralaw/playground))
 
-- :dart: I’m currently focusing on **Express**
+- :dart: I’m currently focusing on **Full-Stack applications**
 
 - :woman_technologist: View my live projects at [https://www.barbaralaw.me](https://www.barbaralaw.me)
 
