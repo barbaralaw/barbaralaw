@@ -5,7 +5,7 @@
 
 
 
-- :construction: I’m currently working on **Learn or Pay** ([live site](https://learnorpay.carrd.co/) || [Github repo](https://github.com/barbaralaw/learnOrPay))
+- :construction: I’m currently working on **Readalong** ([Github repo](https://github.com/barbaralaw/readalong))
 
 - :alembic: I'm currently experimenting with **CSS Drawing** ([gnome header](https://github.com/barbaralaw/playground))
 
