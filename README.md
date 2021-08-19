@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/blawblawlaw" target="blank"><img align="center" src="https://i.ibb.co/Nn7fSV4/icons8-twitter-64.png" alt="blawblawlaw" height="50" width="50" /></a>
-<a href="https://hashnode.com/@blawblawLaw" target="blank"><img align="center" src="https://ibb.co/ySHtn23" alt="barbaralaw" height="40" width="40" /></a>
+<a href="https://hashnode.com/@blawblawLaw" target="blank"><img align="center" src="https://i.ibb.co/vY0px9t/hashnode.png" alt="barbaralaw" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/lawbarbara" target="blank"><img align="center" src="https://i.ibb.co/LNBRLRM/icons8-linkedin-64.png" alt="lawbarbara" height="50" width="50" /></a>
 </p>
 
