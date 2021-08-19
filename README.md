@@ -5,7 +5,7 @@
 
 
 
-- :construction: I’m currently working on **Readalong** ([Github repo](https://github.com/barbaralaw/readalong))
+- :construction: I’m currently working on **Reading Circle** ([Github repo](https://github.com/barbaralaw/reading_circle))
 
 - :alembic: I'm currently experimenting with **CSS Drawing** ([gnome header](https://github.com/barbaralaw/playground))
 
@@ -13,7 +13,7 @@
 
 - :woman_technologist: View my live projects at [https://www.barbaralaw.me](https://www.barbaralaw.me)
 
-- 📝 I regularly write articles on [https://dev.to/barbaralaw](https://dev.to/barbaralaw)
+- 📝 I regularly write articles on [https://hashnode.com/@blawblawLaw](https://hashnode.com/@blawblawLaw)
 
 - 💬 Ask me about **Language Learning and tech**
 
@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/blawblawlaw" target="blank"><img align="center" src="https://i.ibb.co/Nn7fSV4/icons8-twitter-64.png" alt="blawblawlaw" height="50" width="50" /></a>
-<a href="https://dev.to/barbaralaw" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="barbaralaw" height="40" width="40" /></a>
+<a href="https://hashnode.com/@blawblawLaw" target="blank"><img align="center" src="https://ibb.co/ySHtn23" alt="barbaralaw" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/lawbarbara" target="blank"><img align="center" src="https://i.ibb.co/LNBRLRM/icons8-linkedin-64.png" alt="lawbarbara" height="50" width="50" /></a>
 </p>
 
