@@ -23,7 +23,7 @@
 
 ### :pencil: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Navigate Arrays like you're Talking to a 4-year-old](https://dev.to/barbaralaw/navigate-arrays-like-you-re-talking-to-a-4-year-old-1did)
+- [Navigate Arrays like you&#39;re Talking to a 4-year-old](https://dev.to/barbaralaw/navigate-arrays-like-you-re-talking-to-a-4-year-old-1did)
 - [I want to do Codewars... uh, how do I do that?](https://dev.to/barbaralaw/i-want-to-do-codewars-uh-how-do-i-do-that-1pf0)
 <!-- BLOG-POST-LIST:END -->
 
