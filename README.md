@@ -9,11 +9,11 @@
 
 - :alembic: I'm currently experimenting with **CSS Drawing** ([gnome header](https://github.com/barbaralaw/playground))
 
-- :dart: I’m currently focusing on **Full-Stack applications**
+- :dart: I’m currently focusing on **Native Web Component Design Systems** using [StencilJS](https://stenciljs.com/docs/introduction)
 
 - :woman_technologist: View my live projects at [https://www.barbaralaw.me](https://www.barbaralaw.me)
 
-- 📝 I regularly write articles on [https://hashnode.com/@blawblawLaw](https://hashnode.com/@blawblawLaw)
+- 📝 I regularly write articles at [https://blog.barbaralaw.me](https://blog.barbaralaw.me)
 
 - 💬 Ask me about **Language Learning and tech**
 
